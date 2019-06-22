@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		FFD97BBB22BDCE5E00DE48EA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BBA22BDCE5E00DE48EA /* AppDelegate.swift */; };
-		FFD97BBD22BDCE5E00DE48EA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BBC22BDCE5E00DE48EA /* ViewController.swift */; };
 		FFD97BC022BDCE5E00DE48EA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD97BBE22BDCE5E00DE48EA /* Main.storyboard */; };
 		FFD97BC322BDCE5E00DE48EA /* My_Life_SOOC.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BC122BDCE5E00DE48EA /* My_Life_SOOC.xcdatamodeld */; };
 		FFD97BC522BDCE6900DE48EA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFD97BC422BDCE6900DE48EA /* Assets.xcassets */; };
@@ -37,7 +36,6 @@
 /* Begin PBXFileReference section */
 		FFD97BB722BDCE5E00DE48EA /* My Life SOOC.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "My Life SOOC.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFD97BBA22BDCE5E00DE48EA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		FFD97BBC22BDCE5E00DE48EA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		FFD97BBF22BDCE5E00DE48EA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		FFD97BC222BDCE5E00DE48EA /* My_Life_SOOC.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = My_Life_SOOC.xcdatamodel; sourceTree = "<group>"; };
 		FFD97BC422BDCE6900DE48EA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -100,7 +98,6 @@
 			isa = PBXGroup;
 			children = (
 				FFD97BBA22BDCE5E00DE48EA /* AppDelegate.swift */,
-				FFD97BBC22BDCE5E00DE48EA /* ViewController.swift */,
 				FFD97BBE22BDCE5E00DE48EA /* Main.storyboard */,
 				FFD97BC422BDCE6900DE48EA /* Assets.xcassets */,
 				FFD97BC622BDCE6900DE48EA /* LaunchScreen.storyboard */,
@@ -259,7 +256,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFD97BBD22BDCE5E00DE48EA /* ViewController.swift in Sources */,
 				FFD97BBB22BDCE5E00DE48EA /* AppDelegate.swift in Sources */,
 				FFD97BC322BDCE5E00DE48EA /* My_Life_SOOC.xcdatamodeld in Sources */,
 			);

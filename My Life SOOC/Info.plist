@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Photos can be uploaded from photo library</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Photos taken with camera can be added to photo library on phone</string>
+	<key>NSCameraUsageDescription</key>
+	<string>Camera will be used to take photos directly to upload into app</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleExecutable</key>
