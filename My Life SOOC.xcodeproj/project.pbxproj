@@ -14,6 +14,7 @@
 		FFD97BC822BDCE6900DE48EA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD97BC622BDCE6900DE48EA /* LaunchScreen.storyboard */; };
 		FFD97BD322BDCE6A00DE48EA /* My_Life_SOOCTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BD222BDCE6A00DE48EA /* My_Life_SOOCTests.swift */; };
 		FFD97BDE22BDCE6A00DE48EA /* My_Life_SOOCUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BDD22BDCE6A00DE48EA /* My_Life_SOOCUITests.swift */; };
+		FFD97BEC22BDE07000DE48EA /* NewPhotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD97BEB22BDE07000DE48EA /* NewPhotoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		FFD97BD922BDCE6A00DE48EA /* My Life SOOCUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "My Life SOOCUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFD97BDD22BDCE6A00DE48EA /* My_Life_SOOCUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = My_Life_SOOCUITests.swift; sourceTree = "<group>"; };
 		FFD97BDF22BDCE6A00DE48EA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFD97BEB22BDE07000DE48EA /* NewPhotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewPhotoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				FFD97BBA22BDCE5E00DE48EA /* AppDelegate.swift */,
 				FFD97BBE22BDCE5E00DE48EA /* Main.storyboard */,
+				FFD97BEB22BDE07000DE48EA /* NewPhotoViewController.swift */,
 				FFD97BC422BDCE6900DE48EA /* Assets.xcassets */,
 				FFD97BC622BDCE6900DE48EA /* LaunchScreen.storyboard */,
 				FFD97BC922BDCE6900DE48EA /* Info.plist */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				FFD97BBB22BDCE5E00DE48EA /* AppDelegate.swift in Sources */,
+				FFD97BEC22BDE07000DE48EA /* NewPhotoViewController.swift in Sources */,
 				FFD97BC322BDCE5E00DE48EA /* My_Life_SOOC.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
